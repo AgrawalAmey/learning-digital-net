@@ -1,6 +1,6 @@
 # Learning Digital Circuits: A Journey Through Weight Invariant Self-Pruning Neural Networks
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/AgrawalAmey/learning-digital-net/]
+![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)(https://colab.research.google.com/github/AgrawalAmey/learning-digital-net/]
 
 This notebook contains source code for paper ["Learning Digital Circuits: A Journey Through Weight Invariant Self-Pruning Neural Networks".](https://arxiv.org/pdf/1909.00052.pdf)
 
